@@ -10,4 +10,4 @@ rclone-bzm is a private tool. It is an OAuth client that lets the owner's own rc
 - **Storage:** the OAuth token is kept in an encrypted secrets file on the owner's server.
 - **Revoking access:** the owner can revoke the app at any time at https://myaccount.google.com/permissions.
 
-Contact: lucasacoombes.ac@gmail.com
+Contact: lucasacoombes.accc@gmail.com
